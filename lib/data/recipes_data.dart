@@ -26,4 +26,29 @@ final List<Recipe> sampleRecipes = [
     ingredients: ['Oats', 'Milk', 'Sugar'],
     instructions: 'Warm up milk and sugar and put in the oats.',
   ),
+  Recipe(
+    name: 'Brocolli Cheddar Soup',
+    imagePath: 'assets/images/brocolli.jpg',
+    ingredients: [
+      'Brocolli',
+      'Onion',
+      'Garlic'
+          'Butter',
+      'Flour',
+      'Milk',
+      'Vegetable Broth',
+      'Carrots',
+      'Salt',
+      'Pepper',
+    ],
+    instructions:
+        'Add all of the ingredients together and put on the stove on medium heat for two hours.',
+  ),
+  Recipe(
+    name: 'Choco Chip Cookies',
+    imagePath: 'assets/images/choco.jpg',
+    ingredients: ['Chocolate', 'Milk', 'Flour'],
+    instructions:
+        'Add all of the ingredients together and put in the oven for 20 minutes at 500 degrees',
+  ),
 ];
