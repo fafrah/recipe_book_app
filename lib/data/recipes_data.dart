@@ -27,10 +27,10 @@ final List<Recipe> sampleRecipes = [
     instructions: 'Warm up milk and sugar and put in the oats.',
   ),
   Recipe(
-    name: 'Brocolli Cheddar Soup',
-    imagePath: 'assets/images/brocolli.jpg',
+    name: 'Broccoli Cheddar Soup',
+    imagePath: 'assets/images/broccoli.jpg',
     ingredients: [
-      'Brocolli',
+      'Broccoli',
       'Onion',
       'Garlic'
           'Butter',
