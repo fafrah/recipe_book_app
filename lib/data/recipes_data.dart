@@ -18,7 +18,7 @@ final List<Recipe> sampleRecipes = [
     name: 'Grilled Cheese Sandwich',
     imagePath: 'assets/images/grilled.jpg',
     ingredients: ['Bread', 'Cheese', 'Butter'],
-    instructions: 'Put butter on break and cook it on a pan with cheese',
+    instructions: 'Put butter on bread and cook it on a pan with cheese',
   ),
   Recipe(
     name: 'Oatmeal',
